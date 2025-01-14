@@ -1,4 +1,2 @@
 # grm_devops
-План действий:
-установить FileBeat
-интегрировать в агрегатор логов
+Grafana, Loki, Promtail docker installation
